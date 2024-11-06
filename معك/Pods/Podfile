@@ -1,0 +1,146 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AppAuth' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AppAuth
+  pod 'GoogleSignIn'
+end
+
+target 'AppAuth-AppAuthCore_Privacy' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AppAuth-AppAuthCore_Privacy
+end
+
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AppAuth' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AppAuth
+
+end
+
+target 'AppAuth-AppAuthCore_Privacy' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AppAuth-AppAuthCore_Privacy
+
+end
+
+target 'AppCheckCore' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AppCheckCore
+
+end
+
+target 'GoogleSignIn' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GoogleSignIn
+
+end
+
+target 'GoogleSignIn-GoogleSignIn' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks  # Pods for GoogleSignIn-GoogleSignIn
+
+end
+
+target 'GoogleUtilities' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GoogleUtilities
+
+end
+
+target 'GoogleUtilities-GoogleUtilities_Privacy' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GoogleUtilities-GoogleUtilities_Privacy
+
+end
+
+target 'GTMAppAuth' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GTMAppAuth
+
+end
+
+target 'GTMAppAuth-GTMAppAuth_Privacy' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GTMAppAuth-GTMAppAuth_Privacy
+
+end
+
+target 'GTMSessionFetcher' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GTMSessionFetcher
+
+end
+
+target 'GTMSessionFetcher-GTMSessionFetcher_Core_Privacy' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GTMSessionFetcher-GTMSessionFetcher_Core_Privacy
+
+end
+
+target 'Pods-معك' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Pods-معك
+
+end
+
+target 'Pods-معك-معكUITests' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Pods-معك-معكUITests
+
+end
+
+target 'Pods-معكTests' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Pods-معكTests
+
+end
+
+target 'PromisesObjC' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for PromisesObjC
+
+end
+
+target 'PromisesObjC-FBLPromises_Privacy' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for PromisesObjC-FBLPromises_Privacy
+
+end

@@ -1,0 +1,7 @@
+platform :ios, '16.0'
+
+target 'معك' do
+  pod 'GoogleSignInSwiftSupport', '8.0.0'
+  # أضف أي اعتمادات أخرى هنا
+end
+
